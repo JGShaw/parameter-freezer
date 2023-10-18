@@ -1,6 +1,7 @@
 # URL Parameter Freezer 
-This Chrome plugin allow you to freeze parameters
+This Chrome plugin allow you to freeze parameters in URL, so they stay the same when navigating betweek different pages.
 
+This was initially developed to use with Grafana so that you can freeze a selected time range and have it stay the same when navigating to a different dashboard.
 
 ## Installation
 
