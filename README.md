@@ -3,6 +3,8 @@ This Chrome plugin allow you to freeze parameters in URL, so they stay the same 
 
 This was initially developed to use with Grafana so that you can freeze a selected time range and have it stay the same when navigating to a different dashboard.
 
+https://github.com/JGShaw/parameter-freezer/assets/34403207/1a2d970d-b280-4ccf-87f7-8c81efe2c61a
+
 ## Installation
 
 1. Clone this repo
