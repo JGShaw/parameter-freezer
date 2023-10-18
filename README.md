@@ -21,6 +21,6 @@ Use the extension pop up to manage the parameters you want to freeze. When a par
 - Does not work properly when a parameter appears multiple times
 
 ## TODO
-- Add toggle to switch off the redirection that watches the URL, so it just uses chrome.declarativeNetRequest. This was added to work with single page apps (e.g. Grafana) but can make it much slower
+- Add toggle to switch off the redirection that watches the URL in the service worker, so it just uses chrome.declarativeNetRequest. This was added to work with single page apps (e.g. Grafana) but can make it much slower if it does through multiple redirects.
 - Add option to limit freezes to just within one domain
 - Publish
