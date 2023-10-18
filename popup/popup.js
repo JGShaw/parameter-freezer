@@ -20,9 +20,7 @@ function redraw() {
     $("#frozenTable").empty(); 
     $("#unfrozenTable").empty(); 
 
-
     chrome.storage.local.get(null, function (items) {
-        
         const frozenParams = []
 
         for (const [key, value] of Object.entries(items)) {
